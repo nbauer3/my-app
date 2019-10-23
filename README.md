@@ -6,6 +6,8 @@ Navigate to my-app directory `cd my-app`
 
 Run app using `npm start`
 
+End running process on port 3000 when finished
+
 ----------------------------------------------------------------------------------------------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
