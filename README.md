@@ -1,3 +1,13 @@
+# Simple React JS Tic-Tac-Toe Game
+
+First, clone git repo using `git clone github.com/nbauer3/my-app.git`
+
+Navigate to my-app directory `cd my-app`
+
+Run app using `npm start`
+
+----------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
